@@ -12,7 +12,7 @@ In this regression task where we aimed to predict the PM2.5 levels based on x-y 
 ## Hyperparameter tuning with Bayesian optimization
 <img align="right" height="120" src="https://github.com/majkevh/eth-pai-as23/blob/main/img/bo.jpg"></img>
 <img align="right" height="120" src="https://github.com/majkevh/eth-pai-as23/blob/main/img/bo1.jpg"></img>
-In this task we use Bayesian optimization to optimize drug candidate's structural features for absorption and distribution, aiming for high bioavailability (logP) and easy synthesis. We'll adjust parameter $x$ to balance logP and synthetic accessibility, targeting optimal features $x^*$ with high logP and feasible synthesizability.
+In this task we use Bayesian optimization to optimize drug candidate's structural features for absorption and distribution, aiming for high bioavailability (logP) and easy synthesis. 
 <br/><br/>
 
 
