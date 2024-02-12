@@ -1,4 +1,5 @@
 # Probabilistic Artificial Intelligence
+**Authors:** Dr. Linda Maria de Cave, Andrea Ghirlanda, Michael Etienne Van Huffel
 ## Gaussian Process Regression
 <img align="right" height="140" src="https://github.com/majkevh/eth-pai-as23/blob/main/img/gaussianprocess.jpg"></img>
 For this task, the goal was to predict the concentration of PM2.5 per cubic meter in the air, given the relative 2D coordinates of locations on a map, along with a binary variable indicating whether that point lies in a residential area.
